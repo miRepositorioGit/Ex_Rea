@@ -38,15 +38,18 @@ de progresiones de aprendizaje haciendo uso de recursos educativos abiertos (2).
 	Experimentos con Recursos educativos abiertos.
 
 # Referencias.
-
-
+<ol>
+<li>
  (1) Unesco_REA (24 junio 2024).
  Los Recursos Educativos Abiertos. 
  Recuperado: https://www.unesco.org/es/open-educational-resources
  Consultado: 24Junio24.
+ </li> 
+ <li>
  [2](https://github.com/miRepositorioGit/Ex_Rea/tree/main/Miscelaneos)
  (2) Centro Nacional de Actualización Docente Cd-Mx.
 	 Curso en línea: Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico. 	
 	Consultado: 24Junio24.
-
+	 </li>
+</ol>
 
