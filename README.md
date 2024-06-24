@@ -36,6 +36,11 @@ de progresiones de aprendizaje haciendo uso de recursos educativos abiertos (2).
 
 **Ex_Rea**.
 	Experimentos con Recursos educativos abiertos.
+	
+	![Alt text](Img/ecuaciones.PNG "Módulo producto vectorial.")	
+
+	
+***
 
 # Referencias.
 
