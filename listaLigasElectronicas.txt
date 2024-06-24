@@ -1,7 +1,0 @@
-listaLigasElectronicas.txt
-
-Tipos de listas ordenadas en HTML
-	https://www.freecodecamp.org/espanol/news/lista-html-como-usar-vinetas-listas-ordenadas-y-desordenadas/
-	
-Git ignore	
-	https://www.atlassian.com/es/git/tutorials/saving-changes/gitignore
