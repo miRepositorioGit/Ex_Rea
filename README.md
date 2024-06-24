@@ -1,6 +1,8 @@
 # Ex_Rea.
 
 # Descripción.
+Muestra como hacer uso de recursos educativos abiertos como un _apoyo_ a la práctica docente
+en el salón de clase.
 
 ## Objetivo general. 
 
@@ -17,11 +19,6 @@ de progresiones de aprendizaje haciendo uso de recursos educativos abiertos.
   <li>Gestionar colecciones de datos con las herramientas, 
 	  ventanas y comandos de GeoGebra clásico 5. </li>
 </ol>
-
-
-
--
--
 
 # Glosario.
 
