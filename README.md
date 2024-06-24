@@ -35,8 +35,11 @@ de progresiones de aprendizaje haciendo uso de recursos educativos abiertos (2).
 	redistribución de materiales educativos (1).
 
 **Ex_Rea**.
-	Experimentos con Recursos educativos abiertos.		
-	<image src="https://github.com/miRepositorioGit/Ex_Rea/tree/main/Img/ecuaciones.PNG" alt="Módulo producto vectorial.">
+	Experimentos con Recursos educativos abiertos.	
+
+![producto vectorial](/Img/ecuaciones.PNG "Módulo producto vectarial")
+	
+	
 
 	
 ***
