@@ -11,8 +11,7 @@
 -Hacer uso de los recursos periféricos de un dispositivo móvil con la aplicación informática Phyphox© versión 1.1.12, para registrar, recolectar y exportar colecciones de datos numéricos de fenómeno físico en un salón de clases. 
 -Gestionar colecciones de datos con las herramientas, ventanas y comandos de GeoGebra clásico 5. 
 
-
-#Glosario.
+# Glosario.
 
 **Recurso educativo abierto (Rea)**.
 	Los Recursos Educativos Abiertos (REA) son materiales de aprendizaje, 
