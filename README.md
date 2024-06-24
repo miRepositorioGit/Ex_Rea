@@ -48,9 +48,9 @@ de progresiones de aprendizaje haciendo uso de recursos educativos abiertos (Ex_
 	Consultado: 24Junio24.
 
 	- Ex_Rea(2024).
-	Centro Nacional de Actualización Docente Cd-Mx.
+	Carta descriptiva. Centro Nacional de Actualización Docente Cd-Mx.
 	Curso en línea: Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico.	
-	Disponible: [Link] (https://github.com/miRepositorioGit/Ex_Rea/tree/main/Miscelaneos "").
+	Disponible: ![go](https://github.com/miRepositorioGit/Ex_Rea/tree/main/Miscelaneos "Carta descriptiva").
 	Consultado: 24Junio24.
 
 
