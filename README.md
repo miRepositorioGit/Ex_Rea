@@ -40,7 +40,7 @@ de progresiones de aprendizaje haciendo uso de recursos educativos abiertos (Ex_
 	
 ***
 
-# Referencias.
+
 
 	- Unesco_REA (2024).
 	Los Recursos Educativos Abiertos.
@@ -54,8 +54,11 @@ de progresiones de aprendizaje haciendo uso de recursos educativos abiertos (Ex_
 	![Ex_Rea(2024)](https://github.com/miRepositorioGit/Ex_Rea/tree/main/Miscelaneos "Carta descriptiva").
 	Consultado: 24Junio24.
 	
-# Vinculos.
+# Referencias.
 
-![Ex_Rea(2024)](https://github.com/miRepositorioGit/Ex_Rea/tree/main/Miscelaneos).
 Carta descriptiva. Centro Nacional de Actualización Docente Cd-Mx.
 Curso en línea: Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico.
+Consultado: 24Junio24.
+Disponible: 
+![Ex_Rea(2024)](https://github.com/miRepositorioGit/Ex_Rea/tree/main/Miscelaneos).
+
