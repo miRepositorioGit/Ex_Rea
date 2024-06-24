@@ -38,7 +38,7 @@ de progresiones de aprendizaje haciendo uso de recursos educativos abiertos (2).
 	Experimentos con Recursos educativos abiertos.
 
 # Referencias.
-<div>
+
 <ol>
 	<li>
 	- (1) Unesco_REA (24 junio 2024).<br>
@@ -53,5 +53,5 @@ de progresiones de aprendizaje haciendo uso de recursos educativos abiertos (2).
 		Consultado: 24Junio24.
 	 </li>
 </ol>
-</div>
+
 
