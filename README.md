@@ -23,16 +23,15 @@
 	respeta los derechos de propiedad intelectual del propietario de los 
 	derechos de autor y proporciona permisos que otorgan al público los 
 	derechos de acceso, reutilización, reorientación, adaptación y 
-	redistribución de materiales educativos  [1].
+	redistribución de materiales educativos (1).
 
 **Ex_Rea**.
-
 	Experimentos con Recursos educativos abiertos.
 
 # Referencias.
 
 
- [1] Unesco_REA (24 junio 2024).
+ (1) Unesco_REA (24 junio 2024).
  Los Recursos Educativos Abiertos. 
  Recuperado: https://www.unesco.org/es/open-educational-resources
  Consultado: 24Junio24.
