@@ -4,12 +4,24 @@
 
 ## Objetivo general. 
 
--Documentar un instrumento de planeación didáctica y su instrumento de evaluación, para el desarrollo de progresiones de aprendizaje haciendo uso de recursos educativos abiertos. 
+-Documentar un instrumento de planeación didáctica y su instrumento de evaluación, para el desarrollo 
+de progresiones de aprendizaje haciendo uso de recursos educativos abiertos. 
 
 ## Objetivo particular. 
 
--Hacer uso de los recursos periféricos de un dispositivo móvil con la aplicación informática Phyphox© versión 1.1.12, para registrar, recolectar y exportar colecciones de datos numéricos de fenómeno físico en un salón de clases. 
--Gestionar colecciones de datos con las herramientas, ventanas y comandos de GeoGebra clásico 5. 
+<ol type="a">
+  <li>Hacer uso de los recursos periféricos de un dispositivo móvil 
+      con la aplicación informática Phyphox© versión 1.1.12, para 
+	  registrar, recolectar y exportar colecciones de datos numéricos 
+	  de fenómeno físico en un salón de clases. </li>
+  <li>Gestionar colecciones de datos con las herramientas, 
+	  ventanas y comandos de GeoGebra clásico 5. </li>
+</ol>
+
+
+
+-
+-
 
 # Glosario.
 
