@@ -7,7 +7,7 @@ en el salón de clase.
 ## Objetivo general. 
 
 -Documentar un instrumento de planeación didáctica y su instrumento de evaluación, para el desarrollo 
-de progresiones de aprendizaje haciendo uso de recursos educativos abiertos. 
+de progresiones de aprendizaje haciendo uso de recursos educativos abiertos (2). 
 
 ## Objetivo particular. 
 
@@ -15,9 +15,9 @@ de progresiones de aprendizaje haciendo uso de recursos educativos abiertos.
   <li>Hacer uso de los recursos periféricos de un dispositivo móvil 
       con la aplicación informática Phyphox© versión 1.1.12, para 
 	  registrar, recolectar y exportar colecciones de datos numéricos 
-	  de fenómeno físico en un salón de clases. </li>
+	  de fenómeno físico en un salón de clases (2). </li>
   <li>Gestionar colecciones de datos con las herramientas, 
-	  ventanas y comandos de GeoGebra clásico 5. </li>
+	  ventanas y comandos de GeoGebra clásico 5 (2). </li>
 </ol>
 
 # Glosario.
@@ -44,5 +44,9 @@ de progresiones de aprendizaje haciendo uso de recursos educativos abiertos.
  Los Recursos Educativos Abiertos. 
  Recuperado: https://www.unesco.org/es/open-educational-resources
  Consultado: 24Junio24.
+ 
+ (2) Centro Nacional de Actualización Docente Cd-Mx.
+	 Curso en línea: Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico. 	
+	Consultado: 24Junio24.
 
 
