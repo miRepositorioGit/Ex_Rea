@@ -7,7 +7,8 @@ en el salón de clase.
 ## Objetivo general. 
 
 -Documentar un instrumento de planeación didáctica y su instrumento de evaluación, para el desarrollo 
-de progresiones de aprendizaje haciendo uso de recursos educativos abiertos ![Ex_Rea(2024)]. 
+de progresiones de aprendizaje haciendo uso de recursos educativos abiertos .
+![Ex_Rea(2024)] 
 
 ## Objetivo particular. 
 
