@@ -8,12 +8,12 @@ en el salón de clase.
 Ex_Rea
 ├─Img.
 ├─Miscelaneos.
-├─README
-└─CartaDescriptiva.
-	├─Instalación de Rea.
-	├─Formatos de planeación didáctica y su evaluación.
-	└─Desarrollo de la progresión herramientas estadísticas.
-Diagrama 1. 
+├─README.
+└─Miscelaneos.
+	├─Pdf.
+	└─TextosTxt.
+		
+Diagrama 1. Árbol de recursos.
 ```
 
 ## Objetivo general. 
