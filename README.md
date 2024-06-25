@@ -1,8 +1,20 @@
 # Ex_Rea.
 
 # Descripción.
-Muestra como hacer uso de recursos educativos abiertos como un _apoyo_ a la práctica docente
+Muestra como hacer uso de recursos educativos abiertos como _apoyo_ a la práctica docente
 en el salón de clase.
+
+```bash
+Ex_Rea
+	├─Miscelaneos.
+	├─App.
+	├─README
+	└─CartaDescriptiva.
+		├─Instalación de Rea.
+		├─Formatos de planeación didáctica y su evaluación.
+		└─Desarrollo de la progresión herramientas estadísticas.
+Diagrama 1. 
+```
 
 ## Objetivo general. 
 
@@ -54,3 +66,5 @@ Curso en línea: Procedimientos para editar y configurar recursos educativos abi
 Consultado: 24Junio24.
 Disponible: (https://github.com/miRepositorioGit/Ex_Rea/tree/main/Miscelaneos).
 
+Pensamiento matemático
+http://desarrolloprofesionaldocente.sems.gob.mx/convocatoria1_2023/docs/Documento%20progresiones%20-%20Pensamiento%20matemático.pdf
