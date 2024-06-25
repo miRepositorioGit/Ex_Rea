@@ -1,0 +1,21 @@
+listaLigasElectronicas.txt
+
+Instalación de consola git
+	https://git-scm.com/download/win
+
+Creación de cuenta para repositorio git hub.
+https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+
+
+MarkDown
+	https://www.freecodecamp.org/espanol/news/lista-html-como-usar-vinetas-listas-ordenadas-y-desordenadas/
+	
+	https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/markd-jupyter.html?context=wx&locale=es
+	
+	https://denshub.com/es/hugo-post-insert-image/
+	
+Git ignore	
+	https://www.atlassian.com/es/git/tutorials/saving-changes/gitignore
+	
+Sintaxis Markdown
+	https://markdown.es/sintaxis-markdown/

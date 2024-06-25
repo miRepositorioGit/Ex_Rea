@@ -6,13 +6,13 @@ en el salón de clase.
 
 ```bash
 Ex_Rea
-	├─Miscelaneos.
-	├─App.
-	├─README
-	└─CartaDescriptiva.
-		├─Instalación de Rea.
-		├─Formatos de planeación didáctica y su evaluación.
-		└─Desarrollo de la progresión herramientas estadísticas.
+├─Img.
+├─Miscelaneos.
+├─README
+└─CartaDescriptiva.
+	├─Instalación de Rea.
+	├─Formatos de planeación didáctica y su evaluación.
+	└─Desarrollo de la progresión herramientas estadísticas.
 Diagrama 1. 
 ```
 
