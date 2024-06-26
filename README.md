@@ -43,22 +43,21 @@ de una progresión de aprendizaje, haciendo uso de recursos educativos abiertos 
 </ol>
 
 
-![cálculo con GeoGebra](https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Img/pic_alumnos1.jpg)
+![cálculo con GeoGebra](https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Img/pic_alumnos1.jpg) 
+</br>
+Figura 1. Cálculo con GeoGebra en el salón de clases.
+</br>
 
 
-El diagrama 1, muestra la distribución de materiales.
+# _MÁS RECURSOS_ 
 
-```bash
-Ex_Rea
-├─README.
-└─Miscelaneos.
-	├─Docx.
-	├─Img.
-	├─Pdf.
-	└─TextosTxt.
-		
-Diagrama 1. Árbol de recursos.
-```
+Se recomienda **revisar, evaluar, descargar y adaptar ** los recursos para el salón de clase, disponibles en el sitio:
+
+http://www.calculoparatodos.com/geogebra/#team 
+
+Este sitio de recursos educativos es creado y mantenido por la Dra. Socorro Valero, 
+docente del Cbtis No. 164, Cd. Madero, Tamaulipas. México.
+
 
 # Glosario.
 
