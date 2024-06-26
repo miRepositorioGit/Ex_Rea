@@ -39,7 +39,7 @@ de una progresión de aprendizaje, haciendo uso de recursos educativos abiertos 
 
 <ol type="a">
   <li>Hacer uso de los recursos periféricos de un dispositivo móvil 
-      con la aplicación informática Phyphox© versión 1.1.12, para 
+      con la aplicación informática Phyphox© versión 1.1.12 y, o posterior, para 
 	  registrar, recolectar y exportar colecciones de datos numéricos 
 	  de fenómeno físico en un salón de clases (Ex_Rea(2024)). </li>
   <li>Gestionar colecciones de datos con las herramientas, 
@@ -60,9 +60,6 @@ de una progresión de aprendizaje, haciendo uso de recursos educativos abiertos 
 	derechos de acceso, reutilización, reorientación, adaptación y 
 	redistribución de materiales educativos (Unesco_REA (2024)).
 
-**Ex_Rea**.
-	Experimentos con Recursos educativos abiertos.	<br>
-	![producto vectorial](/Img/ecuaciones.PNG "Módulo producto vectorial")<br>
 	
 ***
 	
@@ -74,11 +71,11 @@ Recuperado: https://www.unesco.org/es/open-educational-resources
 Consultado: 24Junio24.
 
 
-![Ex_Rea(2024)](https://github.com/miRepositorioGit/Ex_Rea/tree/main/Miscelaneos).
+![Ex_Rea(2024)](https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/1_CartaDescriptiva_ExReaJulioAgosto24.pdf).
 Carta descriptiva. Centro Nacional de Actualización Docente Cd-Mx.
 Curso en línea: Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico.
 Consultado: 24Junio24.
-Disponible: (https://github.com/miRepositorioGit/Ex_Rea/tree/main/Miscelaneos).
+Disponible: (https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/1_CartaDescriptiva_ExReaJulioAgosto24.pdf).
 
 Pensamiento matemático
 http://desarrolloprofesionaldocente.sems.gob.mx/convocatoria1_2023/docs/Documento%20progresiones%20-%20Pensamiento%20matemático.pdf
