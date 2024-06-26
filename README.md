@@ -1,4 +1,4 @@
-# Ex_Rea. EXperimentos con Recursos educativos abiertos. 
+# Ex_REA. __EX__perimentos con __R__ecursos __E__ducativos __A__biertos. 
 
 # Descripción.
 
