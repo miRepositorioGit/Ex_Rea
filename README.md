@@ -84,6 +84,7 @@ Encuentro universitario de mejores prácticasde uso de TIC en la Educación.
 Taller: Busqueda y selección de Recursos Educativos Abiertos.
 Ciudad Universitaria 29,30 y 31 julio 2015.
 Recuperado:https://www.visibilidadweb.unam.mx/sites/default/files/docs/capacitacion/capacitacion/TallerREA_presentacion.pdf
+Disponible en:https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/TallerREA_presentacion.pdf
 Consultado: 05Junio24.
 
 Pensamiento matemático.
