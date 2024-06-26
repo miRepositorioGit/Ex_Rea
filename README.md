@@ -77,15 +77,15 @@ Diagrama 1. Árbol de recursos.
 
 Unesco_REA (2024).
 Los Recursos Educativos Abiertos.
-Recuperado: https://www.unesco.org/es/open-educational-resources
+Recuperado: https://www.unesco.org/es/open-educational-resources </br>
 Consultado: 24Junio24.
 
-Encuentro universitario de mejores prácticasde uso de TIC en la Educación.
-Taller: Busqueda y selección de Recursos Educativos Abiertos.
-Ciudad Universitaria 29,30 y 31 julio 2015.
-Recuperado:https://www.visibilidadweb.unam.mx/sites/default/files/docs/capacitacion/capacitacion/TallerREA_presentacion.pdf
-Disponible en:https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/TallerREA_presentacion.pdf
-Consultado: 05Junio24.
+Encuentro universitario de mejores prácticasde uso de TIC en la Educación.</br>
+Taller: Busqueda y selección de Recursos Educativos Abiertos.</br>
+Ciudad Universitaria 29,30 y 31 julio 2015.</br>
+Recuperado:https://www.visibilidadweb.unam.mx/sites/default/files/docs/capacitacion/capacitacion/TallerREA_presentacion.pdf </br>
+Disponible en:https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/TallerREA_presentacion.pdf </br>
+Consultado: 05Junio24.</br>
 
 Pensamiento matemático.
 Disponible:
