@@ -1,5 +1,6 @@
 # Ex_REA. 
-_EX_perimentos con _R_ecursos _E_ducativos _A_biertos. 
+
+**EX**perimentos con **R**ecursos **E**ducativos **A**biertos. 
 
 # Descripción.
 
