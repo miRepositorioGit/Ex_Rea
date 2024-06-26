@@ -53,6 +53,7 @@ Ex_Rea
 ├─README.
 └─Miscelaneos.
 	├─Docx.
+	├─Img.
 	├─Pdf.
 	└─TextosTxt.
 		
