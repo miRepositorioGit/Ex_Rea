@@ -80,12 +80,22 @@ Los Recursos Educativos Abiertos.
 Recuperado: https://www.unesco.org/es/open-educational-resources
 Consultado: 24Junio24.
 
+Encuentro universitario de mejores prácticasde uso de TIC en la Educación.
+Taller: Busqueda y selección de Recursos Educativos Abiertos.
+Ciudad Universitaria 29,30 y 31 julio 2015.
+Recuperado:https://www.visibilidadweb.unam.mx/sites/default/files/docs/capacitacion/capacitacion/TallerREA_presentacion.pdf
+Consultado: 05Junio24.
 
-![Ex_Rea(2024)](https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/1_CartaDescriptiva_ExReaJulioAgosto24.pdf).
+Pensamiento matemático.
+Disponible:
+http://desarrolloprofesionaldocente.sems.gob.mx/convocatoria1_2023/docs/Documento%20progresiones%20-%20Pensamiento%20matemático.pdf
+Consultado: 24Junio24 
+
+Características de las y los Docentes para la implementación del Nuevo Marco Curricular Común de la Educación Media Superior
+Disponible: https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/Perfiles%20docente%20y%20directivo%20SEMS_CaracteristicasDocentesMccEms.pdf
+Consultado:20junio2022. 
+
 Carta descriptiva. Centro Nacional de Actualización Docente Cd-Mx.
 Curso en línea: Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico.
-Consultado: 24Junio24.
 Disponible: (https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/1_CartaDescriptiva_ExReaJulioAgosto24.pdf).
-
-Pensamiento matemático
-http://desarrolloprofesionaldocente.sems.gob.mx/convocatoria1_2023/docs/Documento%20progresiones%20-%20Pensamiento%20matemático.pdf
+Consultado: 24Junio24.
