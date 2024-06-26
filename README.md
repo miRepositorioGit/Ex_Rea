@@ -1,8 +1,21 @@
-# Ex_Rea.
+# Ex_Rea. EXperimentos con Recursos educativos abiertos. 
 
 # Descripción.
-Muestra como hacer uso de recursos educativos abiertos como _apoyo_ a la práctica docente
-en el salón de clase.
+
+El propósito del Marco Curricular Común de la Educación Media Superior (MCCEMS) es brindar 
+una educación integral, para ello contempla una serie de elementos tales como:
+-aprendizajes de trayectorias,
+-metas de aprendizaje,
+-componentes transversales
+
+Encuadrados en las Progresiones de Aprendizaje (PA) que constituyen los contenidos mínimos 
+fundamentales, comunes y diversos que favorecerán el acceso a los y las adolescentes, al perfil de 
+egreso de la educación media superior, y que junto con las Orientaciones Pedagógicas (OP) 
+a manera de ejemplo, cómo abordar las progresiones de aprendizaje.
+
+El contenido de éste repositorio es mostrar como hacer uso de recursos educativos abiertos 
+como _apoyo_ a la práctica docente en el salón de clase. El diagrama 1, muestra la distribución de materiales.
+
 
 ```bash
 Ex_Rea
