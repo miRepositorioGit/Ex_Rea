@@ -20,7 +20,6 @@ como _apoyo_ a la práctica docente en el salón de clase. El diagrama 1, muestr
 
 ```bash
 Ex_Rea
-├─Img.
 ├─Miscelaneos.
 ├─README.
 └─Miscelaneos.
