@@ -56,7 +56,7 @@ Se recomienda **revisar, evaluar, descargar y adaptar** los recursos para el sal
 http://www.calculoparatodos.com/geogebra/#team 
 
 Este sitio de recursos educativos con GeoGebra, es creado y mantenido por la Dra. Socorro Valero, 
-docente del Cbtis No. 164, https://cbtis164.edu.mx/web/ Cd. Madero, Tamaulipas. México.
+docente del [Cbtis No. 164](https://cbtis164.edu.mx/web/) Cd. Madero, Tamaulipas. México.
 
 
 # Glosario.
