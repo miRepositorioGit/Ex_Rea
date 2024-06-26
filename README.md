@@ -98,7 +98,7 @@ Características de las y los Docentes para la implementación del Nuevo Marco C
 Disponible: https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/Perfiles%20docente%20y%20directivo%20SEMS_CaracteristicasDocentesMccEms.pdf </br>
 Consultado:20junio2022. </br>
 
-Carta descriptiva. Centro Nacional de Actualización Docente Cd-Mx. </br>
+Ex_Rea(2024). Carta descriptiva. Centro Nacional de Actualización Docente Cd-Mx. </br>
 Curso en línea: Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico. </br>
 Disponible: https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/1_CartaDescriptiva_ExReaJulioAgosto24.pdf </br>
 Consultado: 24Junio24. </br>
