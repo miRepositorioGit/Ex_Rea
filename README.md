@@ -5,9 +5,9 @@
 El propósito del Marco Curricular Común de la Educación Media Superior (MCCEMS) es brindar 
 una educación integral, para ello contempla una serie de elementos tales como:
 
-	+aprendizajes de trayectorias,
-	+metas de aprendizaje,
-	+componentes transversales
+	+ Aprendizajes de trayectorias,
+	+ Metas de aprendizaje,
+	+ Componentes transversales
 
 Encuadrados en las Progresiones de Aprendizaje (PA) que constituyen los contenidos mínimos 
 fundamentales, comunes y diversos que favorecerán el acceso a los y las adolescentes, al perfil de 
