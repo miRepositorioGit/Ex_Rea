@@ -19,10 +19,11 @@ a manera de ejemplo, recomiendan cómo abordar las progresiones de aprendizaje.
 El contenido de éste repositorio es mostrar como hacer uso de recursos educativos abiertos 
 como _apoyo_ para para el desarrollo de una Progreción de Aprendizaje en la práctica docente en el salón de clase.
 
-Para lograrlo se presenta, el curso en línea: 
+Como apoyo se presenta, el curso en línea: 
 
 **Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico.**
 
+Con el
 
 ## Objetivo general. 
 
