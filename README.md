@@ -10,6 +10,7 @@ Ex_Rea
 ├─Miscelaneos.
 ├─README.
 └─Miscelaneos.
+	├─Docx.
 	├─Pdf.
 	└─TextosTxt.
 		
