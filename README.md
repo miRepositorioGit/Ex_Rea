@@ -50,7 +50,6 @@ El diagrama 1, muestra la distribución de materiales.
 
 ```bash
 Ex_Rea
-├─Miscelaneos.
 ├─README.
 └─Miscelaneos.
 	├─Docx.
