@@ -1,4 +1,4 @@
-# Ex_REA. _EX_ perimentos con _R_ ecursos _E_ ducativos _A_ biertos. 
+# Ex_REA. ##_EX_perimentos con _R_ecursos _E_ducativos _A_biertos. 
 
 # Descripción.
 
