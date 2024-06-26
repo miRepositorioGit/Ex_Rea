@@ -89,14 +89,14 @@ Consultado: 05Junio24.</br>
 
 Pensamiento matemático.
 Disponible:
-http://desarrolloprofesionaldocente.sems.gob.mx/convocatoria1_2023/docs/Documento%20progresiones%20-%20Pensamiento%20matemático.pdf
-Consultado: 24Junio24 
+http://desarrolloprofesionaldocente.sems.gob.mx/convocatoria1_2023/docs/Documento%20progresiones%20-%20Pensamiento%20matemático.pdf </br>
+Consultado: 24Junio24 </br>
 
-Características de las y los Docentes para la implementación del Nuevo Marco Curricular Común de la Educación Media Superior
-Disponible: https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/Perfiles%20docente%20y%20directivo%20SEMS_CaracteristicasDocentesMccEms.pdf
-Consultado:20junio2022. 
+Características de las y los Docentes para la implementación del Nuevo Marco Curricular Común de la Educación Media Superior </br>
+Disponible: https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/Perfiles%20docente%20y%20directivo%20SEMS_CaracteristicasDocentesMccEms.pdf </br>
+Consultado:20junio2022. </br>
 
-Carta descriptiva. Centro Nacional de Actualización Docente Cd-Mx.
-Curso en línea: Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico.
-Disponible: (https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/1_CartaDescriptiva_ExReaJulioAgosto24.pdf).
-Consultado: 24Junio24.
+Carta descriptiva. Centro Nacional de Actualización Docente Cd-Mx. </br>
+Curso en línea: Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico. </br>
+Disponible: (https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/1_CartaDescriptiva_ExReaJulioAgosto24.pdf). </br>
+Consultado: 24Junio24. </br>
