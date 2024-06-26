@@ -14,23 +14,15 @@ una educación integral, para ello contempla una serie de elementos tales como:
 Encuadrados en las Progresiones de Aprendizaje (PA) que constituyen los contenidos mínimos 
 fundamentales, comunes y diversos que favorecerán el acceso a los y las adolescentes, al perfil de 
 egreso de la educación media superior, y que junto con las Orientaciones Pedagógicas (OP) 
-a manera de ejemplo, cómo abordar las progresiones de aprendizaje.
+a manera de ejemplo, recomiendan cómo abordar las progresiones de aprendizaje.
 
 El contenido de éste repositorio es mostrar como hacer uso de recursos educativos abiertos 
-como _apoyo_ a la práctica docente en el salón de clase. El diagrama 1, muestra la distribución de materiales.
+como _apoyo_ para para el desarrollo de una Progreción de Aprendizaje en la práctica docente en el salón de clase.
 
+Para lograrlo se presenta, el curso en línea: 
 
-```bash
-Ex_Rea
-├─Miscelaneos.
-├─README.
-└─Miscelaneos.
-	├─Docx.
-	├─Pdf.
-	└─TextosTxt.
-		
-Diagrama 1. Árbol de recursos.
-```
+**Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico.**
+
 
 ## Objetivo general. 
 
@@ -48,6 +40,21 @@ de una progresión de aprendizaje, haciendo uso de recursos educativos abiertos 
 	   ventanas y comandos de GeoGebra clásico 5 (Ex_Rea(2024)). </li>
   <li> Gestionar los recursos de una progresión de aprendizaje, desde un repositorio público. </li> 
 </ol>
+
+
+El diagrama 1, muestra la distribución de materiales.
+
+```bash
+Ex_Rea
+├─Miscelaneos.
+├─README.
+└─Miscelaneos.
+	├─Docx.
+	├─Pdf.
+	└─TextosTxt.
+		
+Diagrama 1. Árbol de recursos.
+```
 
 # Glosario.
 
