@@ -11,17 +11,17 @@ una educación integral, para ello contempla una serie de elementos tales como:
 	+ Metas de aprendizaje,
 	+ Componentes transversales.
 
-Encuadrados en las Progresiones de Aprendizaje (PA) que constituyen los contenidos mínimos 
+Elementos encuadrados en Progresiones de Aprendizaje (PA), que constituyen los contenidos mínimos 
 fundamentales, comunes y diversos que favorecerán el acceso a los y las adolescentes, al perfil de 
-egreso de la educación media superior, y que junto con las Orientaciones Pedagógicas (OP) 
-a manera de ejemplo, recomiendan cómo abordar las progresiones de aprendizaje.
+egreso de la educación media superior, y que junto con las Orientaciones Pedagógicas (OP), 
+a manera de ejemplo, recomiendan cómo abordar las Progresiones de Aprendizaje.
 
-El contenido de éste repositorio es mostrar como hacer uso de recursos educativos abiertos 
+El contenido de éste repositorio es mostrar como hacer uso de recursos educativos abiertos, 
 como _apoyo_ para para el desarrollo de una Progreción de Aprendizaje en la práctica docente en el salón de clase.
 
-Como apoyo se presenta, el curso en línea: 
+Para ello se presenta, el curso en línea: 
 
-**Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico.**
+# _Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico._
 
 Con el
 
