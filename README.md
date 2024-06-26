@@ -100,5 +100,5 @@ Consultado:20junio2022. </br>
 
 Carta descriptiva. Centro Nacional de Actualización Docente Cd-Mx. </br>
 Curso en línea: Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico. </br>
-Disponible: (https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/1_CartaDescriptiva_ExReaJulioAgosto24.pdf). </br>
+Disponible: https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/1_CartaDescriptiva_ExReaJulioAgosto24.pdf </br>
 Consultado: 24Junio24. </br>
