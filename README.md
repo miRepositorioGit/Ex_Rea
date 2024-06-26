@@ -43,6 +43,9 @@ de una progresión de aprendizaje, haciendo uso de recursos educativos abiertos 
 </ol>
 
 
+![Texto alternativo](/ruta/a/la/imagen.jpg)
+
+
 El diagrama 1, muestra la distribución de materiales.
 
 ```bash
@@ -80,7 +83,7 @@ Los Recursos Educativos Abiertos.
 Recuperado: https://www.unesco.org/es/open-educational-resources </br>
 Consultado: 24Junio24.
 
-Encuentro universitario de mejores prácticasde uso de TIC en la Educación.</br>
+Encuentro universitario de mejores prácticas de uso de TIC en la Educación.</br>
 Taller: Busqueda y selección de Recursos Educativos Abiertos.</br>
 Ciudad Universitaria 29,30 y 31 julio 2015.</br>
 Recuperado:https://www.visibilidadweb.unam.mx/sites/default/files/docs/capacitacion/capacitacion/TallerREA_presentacion.pdf </br>
