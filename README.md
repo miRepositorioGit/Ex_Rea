@@ -43,7 +43,7 @@ de una progresión de aprendizaje, haciendo uso de recursos educativos abiertos 
 </ol>
 
 
-![Texto alternativo](/ruta/a/la/imagen.jpg)
+![cálculo con GeoGebra](https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Img/pic_alumnos1.jpg)
 
 
 El diagrama 1, muestra la distribución de materiales.
