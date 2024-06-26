@@ -51,7 +51,7 @@ Figura 1. Cálculo con GeoGebra en el salón de clases.
 
 # _MÁS RECURSOS_ 
 
-Se recomienda **revisar, evaluar, descargar y adaptar ** los recursos para el salón de clase, disponibles en el sitio:
+Se recomienda **revisar, evaluar, descargar y adaptar** los recursos para el salón de clase, disponibles en el sitio:
 
 http://www.calculoparatodos.com/geogebra/#team 
 
