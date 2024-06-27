@@ -84,20 +84,20 @@ docente del [Cbtis No. 164](https://cbtis164.edu.mx/web/) Cd. Madero, Tamaulipas
 	Son aspiraciones en la práctica educativa, constituyen el perfil de egreso 
 	de la EMS, responden a las características biopsicosocioculturales de las 
 	y los estudiantes, así como a constantes cambios de los diversos contextos, 
-	plurales y multiculturale (DOF_02092002, 2002).
+	plurales y multiculturales (DOF_02092002, 2002).
 	
 ***Metas de aprendizaje***
 	"son referentes a considerar para la evaluación formativa del proceso de aprendizaje"...
 	"El profesorado y el alumnado se concentrarán en el logro de las Metas de 
 	aprendizaje y el resultado se expresará en un número que deberá tener 
 	argumentadas las razones de esa calificación, sus áreas de oportunidad 
-	y la identificación de su mejor desempeño."(DOF_02092002, 2002)
+	y la identificación de su mejor desempeño."(DOF_02092002, 2002).
 	
 ***Conceptos transversales***
 es la integración de recursos, habilidades, conceptos y elementos componentes 
 que pretenden lograr una educación integral, capaz de
 formar personas críticas, reflexivas, analíticas, creativas, responsables y
-comprometidas con su proceso de formación (TransversalidadMccEms,2024).
+comprometidas con su proceso de formación... (TransversalidadMccEms,2024).
 	
 ***
 	
