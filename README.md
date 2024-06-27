@@ -97,7 +97,7 @@ docente del [Cbtis No. 164](https://cbtis164.edu.mx/web/) Cd. Madero, Tamaulipas
 es la integración de recursos, habilidades, conceptos y elementos componentes 
 que pretenden lograr una educación integral, capaz de
 formar personas críticas, reflexivas, analíticas, creativas, responsables y
-comprometidas con su proceso de formación. 
+comprometidas con su proceso de formación (TransversalidadMccEms,2024).
 	
 ***
 	
