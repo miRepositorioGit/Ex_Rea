@@ -7,7 +7,7 @@
 El propósito del Marco Curricular Común de la Educación Media Superior (MCCEMS) es brindar 
 una educación integral, para ello contempla una serie de elementos tales como:
 
-	+ Aprendizajes de trayectorias,
+	+ Aprendizajes de trayectoria,
 	+ Metas de aprendizaje,
 	+ Componentes transversales.
 
@@ -72,7 +72,19 @@ docente del [Cbtis No. 164](https://cbtis164.edu.mx/web/) Cd. Madero, Tamaulipas
 	derechos de autor y proporciona permisos que otorgan al público los 
 	derechos de acceso, reutilización, reorientación, adaptación y 
 	redistribución de materiales educativos (Unesco_REA (2024)).
-	
+
+Aprendizajes de trayectoria.
+	Al conjunto de aprendizajes que integran el proceso permanente que 
+	contribuye a dotar de identidad a la EMS, favoreciendo al desarrollo 
+	integral de las y los adolescentes y jóvenes, para construir y conformar 
+	una ciudadanía responsable y comprometida con los problemas de su comunidad, 
+	región y país y que tenga los elementos necesarios para poder decidir por su 
+	futuro en bienestar y en una cultura de paz. Responsables con ellos mismos, 
+	con los demás y con la transformación de la sociedad en la que viven. 
+	Son aspiraciones en la práctica educativa, constituyen el perfil de egreso 
+	de la EMS, responden a las características biopsicosocioculturales de las 
+	y los estudiantes, así como a constantes cambios de los diversos contextos, 
+	plurales y multiculturale (AprendizajesTrayectoria, 2002).
 ***
 	
 # Referencias.
@@ -101,4 +113,11 @@ Consultado:20junio2022. </br>
 Ex_Rea(2024). Carta descriptiva. Centro Nacional de Actualización Docente Cd-Mx. </br>
 Curso en línea: Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico. </br>
 Disponible: https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/1_CartaDescriptiva_ExReaJulioAgosto24.pdf </br>
+Consultado: 24Junio24. </br>
+
+(AprendizajesTrayectoria, 2002) Aprendizajes de Trayectoria.
+MARCO CURRICULAR COMÚN DE LA EDUCACIÓN MEDIA SUPERIOR.</br>
+CAPÍTULO I.</br>
+OBJETO Y DISPOSICIONES GENERALES.</br>
+Disponible:https://www.dof.gob.mx/nota_to_doc.php?codnota=5663343#:~:text=Aprendizajes%20de%20trayectoria%3A%20Al%20conjunto,los%20problemas%20de%20su%20comunidad%2C </br>
 Consultado: 24Junio24. </br>
