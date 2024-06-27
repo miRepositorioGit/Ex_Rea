@@ -9,7 +9,7 @@ una educación integral, para ello contempla una serie de elementos tales como:
 
 	+ Aprendizajes de trayectoria,
 	+ Metas de aprendizaje,
-	+ Componentes transversales.
+	+ Conceptos transversales.
 
 Elementos encuadrados en Progresiones de Aprendizaje (PA), que constituyen los contenidos mínimos 
 fundamentales, comunes y diversos que favorecerán el acceso a los y las adolescentes, al perfil de 
@@ -73,7 +73,7 @@ docente del [Cbtis No. 164](https://cbtis164.edu.mx/web/) Cd. Madero, Tamaulipas
 	derechos de acceso, reutilización, reorientación, adaptación y 
 	redistribución de materiales educativos (Unesco_REA (2024)).
 
-Aprendizajes de trayectoria.
+**Aprendizajes de trayectoria**.
 	Al conjunto de aprendizajes que integran el proceso permanente que 
 	contribuye a dotar de identidad a la EMS, favoreciendo al desarrollo 
 	integral de las y los adolescentes y jóvenes, para construir y conformar 
@@ -84,7 +84,21 @@ Aprendizajes de trayectoria.
 	Son aspiraciones en la práctica educativa, constituyen el perfil de egreso 
 	de la EMS, responden a las características biopsicosocioculturales de las 
 	y los estudiantes, así como a constantes cambios de los diversos contextos, 
-	plurales y multiculturale (AprendizajesTrayectoria, 2002).
+	plurales y multiculturale (DOF_02092002, 2002).
+	
+***Metas de aprendizaje**
+	"son referentes a considerar para la evaluación formativa del proceso de aprendizaje"...
+	"El profesorado y el alumnado se concentrarán en el logro de las Metas de 
+	aprendizaje y el resultado se expresará en un número que deberá tener 
+	argumentadas las razones de esa calificación, sus áreas de oportunidad 
+	y la identificación de su mejor desempeño."(DOF_02092002, 2002)
+	
+***Conceptos transversales ***
+es la integración de recursos, habilidades, conceptos y elementos componentes 
+que pretenden lograr una educación integral, capaz de
+formar personas críticas, reflexivas, analíticas, creativas, responsables y
+comprometidas con su proceso de formación. 
+	
 ***
 	
 # Referencias.
@@ -115,9 +129,14 @@ Curso en línea: Procedimientos para editar y configurar recursos educativos abi
 Disponible: https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/1_CartaDescriptiva_ExReaJulioAgosto24.pdf </br>
 Consultado: 24Junio24. </br>
 
-(AprendizajesTrayectoria, 2002) Aprendizajes de Trayectoria.
+(DOF_02092002, 2002) Aprendizajes de Trayectoria.
 MARCO CURRICULAR COMÚN DE LA EDUCACIÓN MEDIA SUPERIOR.</br>
 CAPÍTULO I.</br>
 OBJETO Y DISPOSICIONES GENERALES.</br>
 Disponible:https://www.dof.gob.mx/nota_to_doc.php?codnota=5663343#:~:text=Aprendizajes%20de%20trayectoria%3A%20Al%20conjunto,los%20problemas%20de%20su%20comunidad%2C </br>
+Consultado: 24Junio24. </br>
+
+(TrnasversalidadMccEms,2024) La Transversalidad en el MCCEMS.</br>
+Secretaría de Educación Pública. Primera edición, 2024.</br>
+Disponible: https://educacionmediasuperior.sep.gob.mx/work/models/sems/Resource/13634/1/images/La_Transversalidad_en_el_MCCEMS_final.pdf </br>
 Consultado: 24Junio24. </br>
