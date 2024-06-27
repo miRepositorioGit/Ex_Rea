@@ -122,7 +122,7 @@ Consultado: 24Junio24 </br>
 
 Características de las y los Docentes para la implementación del Nuevo Marco Curricular Común de la Educación Media Superior </br>
 Disponible: https://github.com/miRepositorioGit/Ex_Rea/blob/main/Miscelaneos/Pdf/Perfiles%20docente%20y%20directivo%20SEMS_CaracteristicasDocentesMccEms.pdf </br>
-Consultado:20junio2022. </br>
+Consultado:20Agosto2022. </br>
 
 Ex_Rea(2024). Carta descriptiva. Centro Nacional de Actualización Docente Cd-Mx. </br>
 Curso en línea: Procedimientos para editar y configurar recursos educativos abiertos para un experimento físico. </br>
